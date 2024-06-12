@@ -1,0 +1,52 @@
+/* #use for design by id */
+/* .use for class design */
+
+/* .heading{         
+    color: blue;
+    background-color: aqua;
+    
+}
+div{
+    height: 100px;
+    width: 1000px;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+}
+
+body{
+    background-color: pink;
+}
+button{
+    background-color: red;
+    text-align: center;
+  
+ 
+    
+} */
+/* 
+.box {
+  height: 200px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 5px;
+  text-align: center;
+  background-color: aqua;
+}
+
+.content {
+  color: red;
+}
+
+.newClass {
+  background-color: blue;
+} */
+
+.dark {
+  background-color: black;
+  color: white;
+}
+.light {
+  background-color: white;
+  color: black;
+}
